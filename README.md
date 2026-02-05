@@ -1,6 +1,6 @@
 ![Banner](./Banner.png)
 
-I build technology with the same mindset nature uses to build ecosystems — intentional, scalable, and interconnected. My work blends clean design, data‑driven insight, and a focus on improving the communities around me.
+I build technology with the same mindset nature uses to build ecosystems; intentional, scalable, and interconnected. My work blends clean design, data‑driven insight, and a focus on improving the communities around me.
 
 ---
 
