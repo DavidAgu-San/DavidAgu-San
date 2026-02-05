@@ -1,4 +1,5 @@
 ![Banner](./banner.png)
+
 #🌱 David Santos  
 ### Computer Science | Systems Thinking | Community‑Driven Engineering
 
